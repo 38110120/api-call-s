@@ -15,3 +15,9 @@ post: used to post a user's data
 get: used to get the users data what we have posted to our DB
 Patch: used to update the data through the Particular id of a user
 Delete: used to delete the users data through the particular id of a user.
+
+To run this project , we have to install the packages like express, nodemon, 
+npm install express
+npm install nodemon
+npm install fspromises
+npm install mongoose
