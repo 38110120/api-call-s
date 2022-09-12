@@ -1,14 +1,3 @@
-// const express = require('express');
-// const app = require('express');
-
-// const usersData = app.get('./sample project/users.json', async function getUsersData(){
-//     console.log('users.json');
-//     const users = await response.JSON();
-//     return users;
-// })
-
-// usersData();
-
 
 let express = require("express");
 let app = express();
